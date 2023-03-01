@@ -26,3 +26,8 @@ Se realizo un Analisis de datos del mercado bursátil, para poder ayudar a una e
 * EDA: Archivo Jupyter Notebook donde se realizó el proceso de EDA y ETL para el análisis de los datos.<br>
 * Dashboard: Archivo .pbix donde contiene los dashboards realizados en PowerBI.<br>
   
+### Metricas
+* Volatilidad: Es medida de la frecuencia e intensidad de los cambios del precio de un activo o de un tipo definido como la desviación estándar de dicho cambio en un horizonte temporal específico. <br>
+* Retorno diario: Se calcula sacando el cambio porcentual entre un cierre ajustado y su anterior. <br>
+* Media móvil: Es un promedio del cierre ajustado a lo largo de un periodo particular.
+  
