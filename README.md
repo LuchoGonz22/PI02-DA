@@ -27,7 +27,9 @@ Se realizo un Analisis de datos del mercado bursátil, para poder ayudar a una e
 * Dashboard: Archivo .pbix donde contiene los dashboards realizados en PowerBI.<br>
   
 ### Metricas
-* Volatilidad: Es medida de la frecuencia e intensidad de los cambios del precio de un activo o de un tipo definido como la desviación estándar de dicho cambio en un horizonte temporal específico. <br>
-* Retorno diario: Se calcula sacando el cambio porcentual entre un cierre ajustado y su anterior. <br>
-* Media móvil: Es un promedio del cierre ajustado a lo largo de un periodo particular.
+- Market Capitalization: Es el valor total de mercado de una empresa, es decir, el valor que los inversionistas están dispuestos a pagar por todas las acciones en circulación de la empresa. Se calcula multiplicando el precio de una acción por el número total de acciones en circulación. <br>
+
+- Return on Equity (ROE): Es una medida de la rentabilidad de una empresa en relación con el capital que los accionistas han invertido en ella. Se calcula dividiendo la utilidad neta de una empresa entre el total de su patrimonio. Cuanto mayor sea el ROE, mejor será la rentabilidad de la empresa en relación con la inversión de los accionistas. <br>
+
+- Earnings per Share (EPS): Es una medida de la ganancia por acción de una empresa, es decir, la cantidad de ganancias que una empresa ha obtenido por cada acción en circulación. Se calcula dividiendo las ganancias netas de una empresa entre el número total de acciones en circulación. Cuanto mayor sea el EPS, mejor será la rentabilidad de la empresa por acción.
   
