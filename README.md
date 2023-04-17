@@ -56,4 +56,4 @@ A través del análisis de los datos y la visualización de los mismos, se encon
 En general, se encontró que las empresas tecnológicas tuvieron un mejor rendimiento en términos de Market Capitalization, ROE y EPS. Sin embargo, el Sharpe Ratio, que mide la rentabilidad ajustada al riesgo, mostró resultados más variados entre las empresas.
 <br>
 <br>
-El dashboard creado en Power BI permitió una visualización interactiva de los datos y facilitó la comprensión de su comportamiento. Se recomienda seguir explorando el uso de herramientas de visualización de datos para mejorar la comunicación de resultados a stakeholders no técnicos
+El dashboard creado en Power BI permitió una visualización interactiva de los datos y facilitó la comprensión de su comportamiento. Se recomienda seguir explorando el uso de herramientas de visualización de datos para mejorar la comunicación de resultados a stakeholders no técnicos.
