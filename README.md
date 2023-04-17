@@ -22,10 +22,10 @@ Se realizo un Analisis de datos del mercado bursátil, para poder ayudar a una e
   Y la tercer y ultima fase se realizo mediante PowerBI un dashboard para entender de forma mas sencilla el comportamiento del mercado bursátil.<br>
   
 ### Material
-* datasets_companies: Carpeta donde se guardaron los archivo de las empresas en general. <br>
-* tech_kpis: Carpeta donde se guardaron los KPI's con las empresas "Tech".
-* eda_process_comp: Archivo Jupyter Notebook donde se realizó el proceso de EDA para el análisis de los datos.<br>
-* Dashboard: Archivo .pbix donde contiene los dashboards realizados en PowerBI.<br>
+* datasets_companies: Carpeta donde se guardaron los archivo de las empresas en general. [Acceder aquí](https://github.com/LuchoGonz22/PI02-DA/tree/main/datasets_companies)<br>
+* tech_kpis: Carpeta donde se guardaron los KPI's con las empresas "Tech". [Acceder aquí](https://github.com/LuchoGonz22/PI02-DA/tree/main/tech_kpis)<br>
+* eda_process_comp: Archivo Jupyter Notebook donde se realizó el proceso de EDA para el análisis de los datos. [Acceder aquí](https://github.com/LuchoGonz22/PI02-DA/blob/main/eda_process_comp.ipynb)<br>
+* Dashboard: Archivo .pbix donde contiene los dashboards realizados en PowerBI. [Acceder aquí](https://github.com/LuchoGonz22/PI02-DA/blob/main/PI02.pbix) <br>
   
 ### Metricas
 - Market Capitalization: Es el valor total de mercado de una empresa, es decir, el valor que los inversionistas están dispuestos a pagar por todas las acciones en circulación de la empresa. Se calcula multiplicando el precio de una acción por el número total de acciones en circulación. <br>
