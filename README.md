@@ -33,7 +33,8 @@ Este proyecto tiene como objetivo analizar el mercado bursátil S&P 500 y aplica
 * datasets_companies: Carpeta donde se guardaron los archivo de las empresas en general. [Acceder aquí](https://github.com/LuchoGonz22/PI02-DA/tree/main/datasets_companies)<br>
 * tech_kpis: Carpeta donde se guardaron los KPI's con las empresas "Tech". [Acceder aquí](https://github.com/LuchoGonz22/PI02-DA/tree/main/tech_kpis)<br>
 * eda_process_comp: Archivo Jupyter Notebook donde se realizó el proceso de EDA para el análisis de los datos. [Acceder aquí](https://github.com/LuchoGonz22/PI02-DA/blob/main/eda_process_comp.ipynb)<br>
-* Dashboard: Archivo .pbix donde contiene los dashboards realizados en PowerBI. [Acceder aquí](https://github.com/LuchoGonz22/PI02-DA/blob/main/PI02.pbix) <br>
+* dashboards: Carpeta donde contiene los dashboards realizados en PowerBI y en formato PDF. [Acceder aquí](https://github.com/LuchoGonz22/PI02-DA/tree/main/dashboards) <br>
+
   
 ## Tecnologías utilizadas
 * Python: para la limpieza, procesamiento y análisis de datos.<br>
