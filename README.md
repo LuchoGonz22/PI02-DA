@@ -27,7 +27,7 @@ Se realizo un Analisis de datos del mercado bursátil, para poder ayudar a una e
 * eda_process_comp: Archivo Jupyter Notebook donde se realizó el proceso de EDA para el análisis de los datos. [Acceder aquí](https://github.com/LuchoGonz22/PI02-DA/blob/main/eda_process_comp.ipynb)<br>
 * Dashboard: Archivo .pbix donde contiene los dashboards realizados en PowerBI. [Acceder aquí](https://github.com/LuchoGonz22/PI02-DA/blob/main/PI02.pbix) <br>
   
-### Metricas
+### KPI's
 - Market Capitalization: Es el valor total de mercado de una empresa, es decir, el valor que los inversionistas están dispuestos a pagar por todas las acciones en circulación de la empresa. Se calcula multiplicando el precio de una acción por el número total de acciones en circulación. <br>
 
 - Return on Equity (ROE): Es una medida de la rentabilidad de una empresa en relación con el capital que los accionistas han invertido en ella. Se calcula dividiendo la utilidad neta de una empresa entre el total de su patrimonio. Cuanto mayor sea el ROE, mejor será la rentabilidad de la empresa en relación con la inversión de los accionistas. <br>
