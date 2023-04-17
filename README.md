@@ -48,4 +48,7 @@ Este proyecto tiene como objetivo analizar el mercado bursátil S&P 500 y aplica
 - Earnings per Share (EPS): Es una medida de la ganancia por acción de una empresa, es decir, la cantidad de ganancias que una empresa ha obtenido por cada acción en circulación. Se calcula dividiendo las ganancias netas de una empresa entre el número total de acciones en circulación. Cuanto mayor sea el EPS, mejor será la rentabilidad de la empresa por acción.
   
  - Sharpe Ratio: Mide numéricamente la relación Rentabilidad / Volatilidad Histórica (desviación standard) de un Fondo de Inversión. Se calcula dividiendo la rentabilidad de un fondo menos la tasa de interés sin riesgo entre la volatilidad o desviación standard de esa rentabilidad en el mismo periodo.
-  
+
+## Resultados
+En cuanto a los resultados a los que se llegó en el proyecto, se pudo obtener una visión general del comportamiento del mercado bursátil y su evolución en el tiempo. También se logró identificar patrones y tendencias en los precios de las acciones de las empresas seleccionadas y se calcularon diversos KPIs financieros para evaluar su desempeño.<br>
+Además, se pudo diseñar y desarrollar un dashboard interactivo utilizando PowerBI para visualizar y presentar los datos de manera más clara y comprensible para usuarios con diferentes niveles de conocimientos financieros. Este dashboard permitió a la empresa tomar decisiones más informadas en cuanto a la inversión en acciones y también proporcionó información valiosa para la identificación de oportunidades de inversión en el futuro.
