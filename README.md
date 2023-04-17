@@ -1,15 +1,15 @@
-<p align='center'>
-<img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
-<p>
+<h1 align='center'>
+  <img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
+</h1>
   
   <h1 align='center'>
  <b>PROYECTO INDIVIDUAL Nº2</b><br>
     LUCIANO GONZALEZ
 </h1>
 
-<p align='center'>
-<img src = 'https://m.foolcdn.com/media/dubs/original_images/Intro_slide_-_digital_stock_chart_going_up_-_source_getty.jpg' height = 200>
-<p>
+<h1 align='center'>
+<img src='https://github.com/LuchoGonz22/PI02-DA/blob/main/assets/logo_da.jpg' height = 200>
+</h1>
 
 En el siguiente proyecto me posiciono en el rol de Data Analytics, utilizando diversos metodos de analisis de datos. Se trabajo con el mercado bursátil(S&P 500).
   
