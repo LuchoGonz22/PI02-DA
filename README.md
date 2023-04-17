@@ -11,6 +11,12 @@
 <img src='https://github.com/LuchoGonz22/PI02-DA/blob/main/assets/logo_da.jpg' height = 200>
 </h1>
 
+## Índices
+- [Contexto](#contexto)
+- [Fases](#fases)
+- [Material](#material)
+- [KPI's](#kpis)
+
 En el siguiente proyecto me posiciono en el rol de Data Analytics, utilizando diversos metodos de analisis de datos. Se trabajo con el mercado bursátil(S&P 500).
   
 ## Contexto
