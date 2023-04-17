@@ -22,8 +22,9 @@ Se realizo un Analisis de datos del mercado bursátil, para poder ayudar a una e
   Y la tercer y ultima fase se realizo mediante PowerBI un dashboard para entender de forma mas sencilla el comportamiento del mercado bursátil.<br>
   
 ### Material
-* Datasets: Carpeta donde se guardó los archivo que se trabajaron. Tanto el dataset de índice S&P 500 como el dataset de el índice del sector tecnológico. <br>
-* EDA: Archivo Jupyter Notebook donde se realizó el proceso de EDA y ETL para el análisis de los datos.<br>
+* datasets_companies: Carpeta donde se guardaron los archivo de las empresas en general. <br>
+* tech_kpis: Carpeta donde se guardaron los KPI's con las empresas "Tech".
+* eda_process_comp: Archivo Jupyter Notebook donde se realizó el proceso de EDA para el análisis de los datos.<br>
 * Dashboard: Archivo .pbix donde contiene los dashboards realizados en PowerBI.<br>
   
 ### Metricas
