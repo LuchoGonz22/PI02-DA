@@ -18,8 +18,7 @@
 - [KPI's](#kpis)
   
 ## Contexto
-En el siguiente proyecto me posiciono en el rol de Data Analytics, utilizando diversos metodos de analisis de datos. Se trabajo con el mercado bursátil(S&P 500).<br>
-Se realizo un Analisis de datos del mercado bursátil, para poder ayudar a una empresa sin conocimiento en el área financiera. Se utilizaron diversas tecnicas de analisis para entender el funcionamiento de mercado y los datos fueron obtenidos de a travéz de una API de yFinance
+Este proyecto tiene como objetivo analizar el mercado bursátil S&P 500 y aplicar diversas técnicas de análisis de datos para entender su funcionamiento y obtener información valiosa para una empresa sin conocimientos financieros. Se utilizaron datos obtenidos a través de la API de yFinance, Webscraping y se realizaron análisis exploratorios de los datos, así como la creación de KPIs y visualizaciones en Power BI para una mejor comprensión y toma de decisiones.
   
 ## Fases
   La primera fase se realizo la busquedad e ingesta de datos para posteriormente analizarlos.<br>
