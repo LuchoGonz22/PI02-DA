@@ -3,7 +3,7 @@
 </h1>
   
   <h1 align='center'>
- <b>PROYECTO INDIVIDUAL Nº2</b><br>
+ <b>Análisis de datos del mercado bursátil (S&P 500)</b><br>
     LUCIANO GONZALEZ
 </h1>
 
@@ -21,17 +21,26 @@
 Este proyecto tiene como objetivo analizar el mercado bursátil S&P 500 y aplicar diversas técnicas de análisis de datos para entender su funcionamiento y obtener información valiosa para una empresa sin conocimientos financieros. Se utilizaron datos obtenidos a través de la API de yFinance, Webscraping y se realizaron análisis exploratorios de los datos, así como la creación de KPIs y visualizaciones en Power BI para una mejor comprensión y toma de decisiones.
   
 ## Fases
-  La primera fase se realizo la busquedad e ingesta de datos para posteriormente analizarlos.<br>
-  En la segunda fase se realizaron visualizaciónes para encontrar patrónes que nos ayuden a entender mejor los datos.<br>
-  Y la tercer y ultima fase se realizo mediante PowerBI un dashboard para entender de forma mas sencilla el comportamiento del mercado bursátil.<br>
+  * Ingesta y limpieza de datos: Se buscó y se descargó datos históricos del S&P 500 a través de la API de Yahoo Finance. Se limpiaron y procesaron los datos para          poder analizarlos posteriormente.<br>
+
+  * Análisis exploratorio de datos (EDA): Se realizaron visualizaciones y se exploraron los datos para encontrar patrones y tendencias. Se examinaron los precios de        cierre, los volúmenes de negociación y otros datos relevantes para el análisis.<br>
+
+  * Cálculo de KPIs: Se calcularon varios KPIs para evaluar el rendimiento del mercado bursátil. Estos KPIs incluyen la capitalización de mercado, el retorno sobre el      patrimonio (ROE), las ganancias por acción (EPS) y la relación de Sharpe.<br>
+
+  * Creación de un dashboard en PowerBI: Finalmente, se creó un dashboard interactivo en PowerBI para presentar los resultados de manera clara y fácil de entender          para el cliente.<br>
   
-### Material
+## Material
 * datasets_companies: Carpeta donde se guardaron los archivo de las empresas en general. [Acceder aquí](https://github.com/LuchoGonz22/PI02-DA/tree/main/datasets_companies)<br>
 * tech_kpis: Carpeta donde se guardaron los KPI's con las empresas "Tech". [Acceder aquí](https://github.com/LuchoGonz22/PI02-DA/tree/main/tech_kpis)<br>
 * eda_process_comp: Archivo Jupyter Notebook donde se realizó el proceso de EDA para el análisis de los datos. [Acceder aquí](https://github.com/LuchoGonz22/PI02-DA/blob/main/eda_process_comp.ipynb)<br>
 * Dashboard: Archivo .pbix donde contiene los dashboards realizados en PowerBI. [Acceder aquí](https://github.com/LuchoGonz22/PI02-DA/blob/main/PI02.pbix) <br>
   
-### KPI's
+## Tecnologías utilizadas
+* Python: para la limpieza, procesamiento y análisis de datos.<br>
+* PowerBI: para la visualización y presentación de los datos.<br>
+* GitHub: para el control de versiones del código y la documentación del proyecto.<br>
+
+## KPI's
 - Market Capitalization: Es el valor total de mercado de una empresa, es decir, el valor que los inversionistas están dispuestos a pagar por todas las acciones en circulación de la empresa. Se calcula multiplicando el precio de una acción por el número total de acciones en circulación. <br>
 
 - Return on Equity (ROE): Es una medida de la rentabilidad de una empresa en relación con el capital que los accionistas han invertido en ella. Se calcula dividiendo la utilidad neta de una empresa entre el total de su patrimonio. Cuanto mayor sea el ROE, mejor será la rentabilidad de la empresa en relación con la inversión de los accionistas. <br>
