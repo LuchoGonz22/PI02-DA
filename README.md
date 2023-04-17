@@ -49,6 +49,9 @@ Este proyecto tiene como objetivo analizar el mercado bursátil S&P 500 y aplica
   
  - Sharpe Ratio: Mide numéricamente la relación Rentabilidad / Volatilidad Histórica (desviación standard) de un Fondo de Inversión. Se calcula dividiendo la rentabilidad de un fondo menos la tasa de interés sin riesgo entre la volatilidad o desviación standard de esa rentabilidad en el mismo periodo.
 
-## Resultados
-En cuanto a los resultados a los que se llegó en el proyecto, se pudo obtener una visión general del comportamiento del mercado bursátil y su evolución en el tiempo. También se logró identificar patrones y tendencias en los precios de las acciones de las empresas seleccionadas y se calcularon diversos KPIs financieros para evaluar su desempeño.<br>
-Además, se pudo diseñar y desarrollar un dashboard interactivo utilizando PowerBI para visualizar y presentar los datos de manera más clara y comprensible para usuarios con diferentes niveles de conocimientos financieros. Este dashboard permitió a la empresa tomar decisiones más informadas en cuanto a la inversión en acciones y también proporcionó información valiosa para la identificación de oportunidades de inversión en el futuro.
+## Resultado y conclusiones
+A través del análisis de los datos y la visualización de los mismos, se encontraron diversos patrones interesantes en el comportamiento del mercado bursátil. También se calcularon los KPIs antes mencionados para las empresas tecnológicas Amazon, Apple y Microsoft, y se crearon gráficos para visualizar su evolución a lo largo del tiempo.
+<br>
+En general, se encontró que las empresas tecnológicas tuvieron un mejor rendimiento en términos de Market Capitalization, ROE y EPS. Sin embargo, el Sharpe Ratio, que mide la rentabilidad ajustada al riesgo, mostró resultados más variados entre las empresas.
+<br>
+El dashboard creado en Power BI permitió una visualización interactiva de los datos y facilitó la comprensión de su comportamiento. Se recomienda seguir explorando el uso de herramientas de visualización de datos para mejorar la comunicación de resultados a stakeholders no técnicos
