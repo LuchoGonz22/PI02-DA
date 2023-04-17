@@ -16,10 +16,9 @@
 - [Fases](#fases)
 - [Material](#material)
 - [KPI's](#kpis)
-
-En el siguiente proyecto me posiciono en el rol de Data Analytics, utilizando diversos metodos de analisis de datos. Se trabajo con el mercado bursátil(S&P 500).
   
 ## Contexto
+En el siguiente proyecto me posiciono en el rol de Data Analytics, utilizando diversos metodos de analisis de datos. Se trabajo con el mercado bursátil(S&P 500).<br>
 Se realizo un Analisis de datos del mercado bursátil, para poder ayudar a una empresa sin conocimiento en el área financiera. Se utilizaron diversas tecnicas de analisis para entender el funcionamiento de mercado y los datos fueron obtenidos de a travéz de una API de yFinance
   
 ## Fases
