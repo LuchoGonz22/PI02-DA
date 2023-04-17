@@ -52,6 +52,8 @@ Este proyecto tiene como objetivo analizar el mercado bursátil S&P 500 y aplica
 ## Resultado y conclusiones
 A través del análisis de los datos y la visualización de los mismos, se encontraron diversos patrones interesantes en el comportamiento del mercado bursátil. También se calcularon los KPIs antes mencionados para las empresas tecnológicas Amazon, Apple y Microsoft, y se crearon gráficos para visualizar su evolución a lo largo del tiempo.
 <br>
+<br>
 En general, se encontró que las empresas tecnológicas tuvieron un mejor rendimiento en términos de Market Capitalization, ROE y EPS. Sin embargo, el Sharpe Ratio, que mide la rentabilidad ajustada al riesgo, mostró resultados más variados entre las empresas.
+<br>
 <br>
 El dashboard creado en Power BI permitió una visualización interactiva de los datos y facilitó la comprensión de su comportamiento. Se recomienda seguir explorando el uso de herramientas de visualización de datos para mejorar la comunicación de resultados a stakeholders no técnicos
